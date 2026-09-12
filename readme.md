@@ -1,3 +1,10 @@
+# Memory Model Benchmark for Spaced Repetition
+
+The purpose of this repository is to provide reference implementations for the models presented in the following paper:
+
+> A. Schill. 2026. [Interpretable Memory Models for Spaced Repetition](https://doi.org/10.5281/zenodo.22727106).
+> Preprint, Zenodo. doi:10.5281/zenodo.22727106.
+
 ## Results on Test Set (Including Same-Day Reviews)
 
 | Model           |  Fine-Tuned  |   Parameters |   State Dimensions |    BCE |   RMSE(bins) |    AUC |
